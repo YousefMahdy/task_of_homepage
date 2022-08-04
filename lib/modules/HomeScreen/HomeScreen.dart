@@ -8,7 +8,7 @@ import 'package:task/models/slider_model.dart';
 import '../../layout/cubit/cubit.dart';
 import '../../layout/cubit/states.dart';
 
-class HomeSceenextends StatelessWidget {
+class HomeSceen extends StatelessWidget {
   @override
   @override
   Widget build(BuildContext context) {
